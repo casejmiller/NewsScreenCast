@@ -1,0 +1,71 @@
+/**********************************
+*
+*	NewsScreenCast	: Stylesheet;
+*
+*	Indigo			: #3f51b5;
+*	Indigo(dark) 	: #303f9f;
+*	Light blue 		: #c5cae9;
+*	White 			: #ffffff;
+*	Pink			: #ff4081;
+*	Gray (dark)		: #212121;
+*	Gray (med)		: #727272;
+*	Gray (light) 	: #b6b6b6;
+*
+**********************************/
+
+
+
+body {
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+ol {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+p {
+
+}
+
+a {
+
+}
+
+
+
+.hero {
+	background-color: #303f9f;
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.logo {
+	font-size: 36px;
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+
+.news-item{
+	border-bottom: 1px solid #b6b6b6;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+
+.news-link{
+	color: #3f51b5;
+	font-size: 24px;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+}
